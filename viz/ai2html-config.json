@@ -1,0 +1,16 @@
+{	
+	"fonts": [
+        {
+            "aifont": "Avenir-Roman",
+            "family": "Avenir",
+            "weight": "300",
+            "style": ""
+        },
+        {
+            "aifont": "Avenir-Medium",
+            "family": "Avenir",
+            "weight": "400",
+            "style": ""
+        },
+    ]
+}
